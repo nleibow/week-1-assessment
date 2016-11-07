@@ -20,7 +20,7 @@ body{
 #phone_pics{
 	
 	margin-left: 70px;
-	margin-top: 50px;
+	margin-top: 100px;
 	display: inline-block;
 	clear: both;
 }
@@ -59,14 +59,20 @@ h2{
 }
 
 #button{
-	position: fixed;
+	position: absolute;
 	margin-left: 75%;
 	margin-top: 15%;
 	background-color: #125688;
-	display: inline-block;
+	display: inline;
 	clear: both;
 	font-size: 12px;
 	font-stretch: 10px;
 	border-width: .5px;
 	
+}
+
+#gi_links{
+	background-color: green;
+	margin-top: 700px;
+
 }
