@@ -59,10 +59,14 @@ h2{
 }
 
 #button{
-	position: absolute;
+	position: fixed;
 	margin-left: 75%;
 	margin-top: 15%;
-	border-radius: 3px;
+	border-radius: black, 3px;
 	background-color: #125688;
+	display: inline-block;
+	clear: both;
+	font-size: 12px;
+	font-stretch: 10px;
 	
 }
