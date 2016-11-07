@@ -7,6 +7,9 @@ body{
 	height: 300px;
 	background-color: #125688;
 	width: 100%;
+	background-image:linear-gradient(
+	rgb(42,140,215),
+	rgb(18, 86, 136));
 	clear: both;
 }
 
@@ -62,7 +65,9 @@ h2{
 	position: absolute;
 	margin-left: 75%;
 	margin-top: 15%;
-	background-color: #125688;
+	background-image:linear-gradient(
+	rgb(42,140,215),
+	rgb(18, 86, 136));
 	display: inline;
 	clear: both;
 	font-size: 12px;
@@ -89,6 +94,7 @@ h2{
 
 li{
 	display: inline;
+	padding: 15px;
 }
 
 #footy{
