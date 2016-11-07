@@ -74,13 +74,14 @@ h2{
 	font-stretch: 10px;
 	border-width: .5px;
 	border-radius: 10px;
+	font-size: 14px;
 	
 }
 
 #gi_links{
 	background-color: white;
 	margin-top: 250px;
-	margin-right: 325px;
+	margin-right: 5%;
 	float: right;
 
 }
@@ -88,7 +89,7 @@ h2{
 #footy{
 	height: 40px;
 	position: absolute;
-	margin-top: 550px;
+	margin-top: 500px;
 	clear: both;
 }
 
@@ -103,7 +104,15 @@ li{
 	color: black;
 	height: 100px;
 	width: 100%;
-	margin-left: 150px;
+	margin-left: 50px;
 	text-align: center;
+
 	
+}
+ul{
+	margin-top: -100px;
+}
+
+li: link{
+	color: #125688;
 }
