@@ -72,7 +72,31 @@ h2{
 }
 
 #gi_links{
-	background-color: green;
-	margin-top: 700px;
+	background-color: white;
+	margin-top: 250px;
+	margin-right: 325px;
+	float: right;
 
+}
+
+#footy{
+	height: 40px;
+	position: absolute;
+	margin-top: 550px;
+	clear: both;
+}
+
+li{
+	display: inline;
+}
+
+#footy{
+	position: absolute;
+	clear: both;
+	color: black;
+	height: 100px;
+	width: 100%;
+	margin-left: 150px;
+	text-align: center;
+	
 }
